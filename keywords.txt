@@ -1,0 +1,5 @@
+1. Thread Safety
+2. Race condition
+3. Atomicity
+4. Class correctness
+5. Stateless/Stateful objects
