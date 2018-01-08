@@ -23,6 +23,7 @@ public class ExecutorFramework {
      */
 
     private static final Executor executor= Executors.newFixedThreadPool(NTHREADS);
+
     public static void main(String args[]) {
         /*
         1. Task : Logical unit of work
